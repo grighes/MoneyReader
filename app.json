@@ -1,0 +1,7 @@
+{
+  "name": "MoneyViewer",
+  "displayName": "MoneyViewer",
+  "expo": {
+    "sdkVersion": "26.0.0"
+  }
+}
